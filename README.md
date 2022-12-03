@@ -1,1 +1,3 @@
-# adventOfCode-julia
+# AdventOfCode julia
+
+Matrixs are cool... :O 
